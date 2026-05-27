@@ -1,0 +1,30 @@
+order_id,fecha,producto,cantidad,precio_unitario
+1001,01-10-2025,Licencia Enterprise,2,1500.00
+1002,02-10-2025,Soporte Premium,1,300.50
+1003,02-10-2025,Licencia Basic,5,50.00
+1004,06-10-2025,Consultoria IT,10,120.00
+1005,07-10-2025,Licencia Enterprise,1,1500.00
+1006,08-10-2025,Soporte Standard,3,100.00
+1007,09-10-2025,Licencia Basic,12,50.00
+1008,10-10-2025,Soporte Premium,2,300.50
+1009,11-10-2025,Consultoria IT,5,120.00
+1010,12-10-2025,Licencia Enterprise,3,1500.00
+1011,13-10-2025,Licencia Basic,8,50.00
+1012,14-10-2025,Soporte Standard,4,100.00
+1013,15-10-2025,Licencia Enterprise,1,1500.00
+1014,16-10-2025,Consultoria IT,8,120.00
+1015,17-10-2025,Soporte Premium,3,300.50
+1016,18-10-2025,Licencia Basic,20,50.00
+1017,19-10-2025,Soporte Standard,2,100.00
+1018,20-10-2025,Licencia Enterprise,2,1500.00
+1019,21-10-2025,Consultoria IT,15,120.00
+1020,22-10-2025,Soporte Premium,1,300.50
+
+
+
+
+
+
+
+
+
